@@ -1,1 +1,1 @@
-# flask-project
+# simple-flask-project
