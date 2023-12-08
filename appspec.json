@@ -20,7 +20,7 @@
           "name": "StartContainer",
           "runas": "root",
           "commands": [
-            "./scripts/start_container.sh"
+            "./scripts/start_container.sh" 
           ],
           "timeout": 300
         }
